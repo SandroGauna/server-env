@@ -1,0 +1,57 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* server_environment_data_encryption
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Sandro Gauna <sgeboxinfo@gmail.com>\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. module: server_environment_data_encryption
+#: code:addons/server_environment_data_encryption/models/server_env_mixin.py:0
+#, fuzzy, python-format
+msgid "Define values for "
+msgstr "Definir valores para "
+
+#. module: server_environment_data_encryption
+#: model:ir.model.fields,field_description:server_environment_data_encryption.field_server_env_mixin__display_name
+msgid "Display Name"
+msgstr "Nome de Exibição"
+
+#. module: server_environment_data_encryption
+#: model:ir.model.fields,field_description:server_environment_data_encryption.field_server_env_mixin__id
+msgid "ID"
+msgstr "ID"
+
+#. module: server_environment_data_encryption
+#: model:ir.model.fields,field_description:server_environment_data_encryption.field_server_env_mixin____last_update
+msgid "Last Modified on"
+msgstr "Última Modificação Feita em"
+
+#. module: server_environment_data_encryption
+#: model:ir.model,name:server_environment_data_encryption.model_server_env_mixin
+#, fuzzy
+msgid "Mixin to add server environment in existing models"
+msgstr "Mixina para adicionar ambiente de servidor em modelos existentes"
+
+#. module: server_environment_data_encryption
+#: code:addons/server_environment_data_encryption/models/server_env_mixin.py:0
+#, fuzzy, python-format
+msgid "Modify values for {} environment"
+msgstr "Modificar valores para {} ambiente"
+
+#. module: server_environment_data_encryption
+#: code:addons/server_environment_data_encryption/models/server_env_mixin.py:0
+#, fuzzy, python-format
+msgid "you need to define the running_env entry in your odoo configuration file"
+msgstr "você precisa definir a entrada running_env em seu arquivo de configuração odoo"
